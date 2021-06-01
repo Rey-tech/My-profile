@@ -1,0 +1,12 @@
+{
+  "name":"My-profile",
+  "dependencies": {
+    "laravel-mix": "^6.0.19",
+    "ufo-framework": "^1.1.2"
+  },
+  "devDependencies": {
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.32.13",
+    "sass-loader": "^11.1.1"
+  }
+}
